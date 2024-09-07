@@ -1,0 +1,44 @@
+.carta{
+    display:flex;
+    justify-content: space-around;
+    background-color:bisque;
+    border-radius:20px;
+    align-items:center;
+    
+}
+
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.buscador{
+    background-color: blueviolet;
+    border-radius: 30px;
+    color:white;
+    font-weight: bold;
+    width:50%;
+}
+
+#contenedorTotal{
+    background-color: rgba(84, 115, 173, 0.705);
+}
+
+.titulo{
+    text-decoration:underline;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contenedorBotones{
+    
+    display:flex;
+}
+
+#errores{
+    text-align:center;
+    color:red;
+    font-size:20px;
+}
+
+
